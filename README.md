@@ -68,7 +68,6 @@ tiktoks.head()
 ```
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -140,7 +139,6 @@ tiktoks.loc[tiktoks.duplicated()]
 
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -211,7 +209,6 @@ user_df.sort_values(by=['fans'])
 
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -419,7 +416,6 @@ bincount
 
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -506,7 +502,6 @@ bindf
 
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
